@@ -17,7 +17,7 @@ import Dialog, {
 import {downloadDocument}                           from "../actions/SigningActions";
 
 
-
+// semihin değişikliği
 class PdfView extends Component {
 
     static navigationOptions = {
